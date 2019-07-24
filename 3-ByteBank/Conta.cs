@@ -56,7 +56,7 @@ namespace _3_ByteBank
         }
         
         public override string ToString() {
-            return string.Format(" Nome {0} \n Número agência {1} \n Número conta {2} \n Saldo em conta R$ {3} \n Limite Lins R$ {4} \n Saldo Total R$ {5}", this.Titular,this.NumeroAgencia,this.NumeroConta,this.SaldoConta,this.LimiteLins, this.SaldoTotal());
+            return string.Format(" Nome {0} \n Número agência {1} \n Número conta {2} \n Saldo em conta R$ {3} \n Limite Lins R$ {4} \n Saldo Total R$ {5} \n", this.Titular,this.NumeroAgencia,this.NumeroConta,this.SaldoConta,this.LimiteLins, this.SaldoTotal());
         }
 
     }

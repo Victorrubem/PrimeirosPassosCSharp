@@ -16,7 +16,16 @@ namespace _3_ByteBank
             gabriele.NumeroConta = 145635;
             gabriele.SaldoConta = 5000.95;
 
-            if (gabriele.Sacar(5040.95))
+            double valorSaque = 5040.95;
+            double valorDeposito = 20;
+
+            Console.WriteLine("*********** Conta ***********\n");
+            Console.WriteLine(gabriele.ToString());
+
+            Console.WriteLine("Sacando... R$ "+ valorSaque+"\n");
+
+
+            if (gabriele.Sacar(valorSaque))
             {
                 Console.WriteLine(gabriele.ToString());
             }
@@ -24,8 +33,9 @@ namespace _3_ByteBank
                 Console.WriteLine("Desculpe, você não possui saldo suficiente! ");
             }
 
-            gabriele.Depositar(20);
-            Console.WriteLine("");
+            Console.WriteLine("Depositando... R$ " + valorDeposito + "\n");
+
+            gabriele.Depositar(valorDeposito);
             Console.WriteLine(gabriele.ToString());
 
 
