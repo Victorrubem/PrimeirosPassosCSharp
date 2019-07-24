@@ -25,6 +25,8 @@ namespace _2_CriandoVariaveis
             long inteiro64bitsComSinal = -9223372036854775807;          // -9223372036854775807 à 9223372036854775807
             ulong inteiro64bitsSemSinal = 18446744073709551615;         // 0 à 18446744073709551615
 
+            var qualquerTipo = 18446744073709551615; //var é uma variável que recebe o tipo do valor atribuído, e não muda mais
+
             //Tipos numéricos de ponto flutuante
             float pontoFlutuantePequeno = 123456.789F;                  //Aproximadamente de 6 à 9 digitos
             double pontoFlutuanteMedio = 123456789.12345678D;           //Aproximadamente de 15 a 17 dígitos

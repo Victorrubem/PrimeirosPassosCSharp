@@ -1,0 +1,7 @@
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\bin\Debug\3-ByteBank.exe.config
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\bin\Debug\3-ByteBank.exe
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\bin\Debug\3-ByteBank.pdb
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\obj\Debug\3-ByteBank.csprojAssemblyReference.cache
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\obj\Debug\3-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\obj\Debug\3-ByteBank.exe
+C:\Users\victor.rubem\source\repos\AprendendoCSharp\3-ByteBank\obj\Debug\3-ByteBank.pdb
